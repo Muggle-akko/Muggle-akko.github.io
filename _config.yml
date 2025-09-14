@@ -1,10 +1,10 @@
 # Site settings
-title: Hux Blog
+title: Awu Blog
 SEOTitle: 阿巫的博客 | Awu Blog
 header-img: img/home-bg.jpg
 email: ArtRam@163.com
 description: "这里是 @阿巫Awu 的个人博客，分享一些个人情绪"
-keyword: "阿巫, 阿巫Awu, Awu,  阿巫的博客, Awu Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+keyword: "阿巫, 阿巫Awu, Awu,  阿巫的博客, Awu Blog, 博客, 个人网站, 互联网, Web, 设计"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
